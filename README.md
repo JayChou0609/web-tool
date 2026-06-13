@@ -9,8 +9,7 @@
 部署简单，支持多种部署方式
 快速开始
 本地预览
-克隆项目到本地
-git clone https://github.com/geeeeeeeek/web_tool.git
+
 cd web_tool
 使用任意 HTTP 服务器运行
 # 使用 Python 3
